@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [React DnD](https://react-dnd.github.io/react-dnd/about).
 
+This project can be viewed on [https://benlutz.github.io/kanban/](https://benlutz.github.io/kanban/)
+
 ## Available Scripts
 
 In the project directory, you can run:
