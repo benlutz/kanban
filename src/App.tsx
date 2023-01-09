@@ -46,7 +46,7 @@ function App() {
           <Column
             onColumnChange={onColumnChange}
             items={items.filter((item) => item.column === null)}
-            title={'Ohne Zuordnung'}
+            title={'No Assignment'}
             id={null}
             onNewItem={(title: string) => {
               setItems([...items, { id: uuid(), title, column: null }]);
