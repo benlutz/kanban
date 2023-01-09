@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project can be viewed on [https://benlutz.github.io/kanban/](https://benlutz.github.io/kanban/)
 
+![](./screenshot.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
